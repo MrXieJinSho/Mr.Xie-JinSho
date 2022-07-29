@@ -10,7 +10,7 @@
       text-align: center;
       padding: 40px;
       ">
-      <img alt="谢景硕" src="https://kangwenchang.com/logo.png" width="80px" height="80px">
+      <img alt="谢景硕" src="" width="80px" height="80px">
     </div>
 	  <div style="
       max-width: 760px;
@@ -28,8 +28,8 @@
       padding: 40px;
       font-size: 12px;
       ">
-      <a href="https://kangwenchang.com">我的网站<p></p>
-    </a></div><a href="https://kangwenchang.com">
+      <a href="">我的网站<p></p>
+    </a></div><a href="">
   
 
 </a></body></html>
