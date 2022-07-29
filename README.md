@@ -5,7 +5,7 @@
     <title>JS</title>
   </head>
   <body style="margin: 0;">
-	  <div style="
+	  <div style="https://mrxiejinsho.github.io/Mr.Xie-JinSho/"
       background-color: #f1f1f1;
       text-align: center;
       padding: 40px;
@@ -28,8 +28,8 @@
       padding: 40px;
       font-size: 12px;
       ">
-      <a href="">我的网站<p></p>
-    </a></div><a href="">
+      <a href="https://mrxiejinsho.github.io/Mr.Xie-JinSho/">我的网站<p></p>
+    </a></div><a href="https://mrxiejinsho.github.io/Mr.Xie-JinSho/">
   
 
 </a></body></html>
