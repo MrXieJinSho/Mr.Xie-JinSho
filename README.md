@@ -9,7 +9,7 @@
       text-align: center;
       padding: 40px;
       ">
-      <img alt="logo" src="我的标识.png" width="80px" height="80px">
+      <img alt="logo" src="http://www.juren2007.cn/c/img/logo.png" width="80px" height="80px">
     </div>
 	  <div style="
       max-width: 760px;
