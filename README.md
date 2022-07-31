@@ -23,6 +23,8 @@
     </a>
       <a href="https://pan.baidu.com/disk/main?_at_=1659263695207#/index?category=all">百度网盘（下载程序）<p></p>
     </a>
+      <a href="https://space.bilibili.com/542041747?spm_id_from=333.337.0.0">B站主页（查看更新动态）<p></p>
+    </a>
     </div>
 	  <div style="
       background-color: #f1f1f1;
