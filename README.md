@@ -9,7 +9,7 @@
       text-align: center;
       padding: 40px;
       ">
-      <img alt="logo" src="https://cdn-community.codemao.cn/47/community/d2ViXzEwMDFfODEyNDI2MV84MTI0MjYxXzE2NTkyNzE2MTk5OTZfNzc5ZTJiNWI.png" width="80px" height="80px">
+      <img alt="logo" src="https://cdn-community.codemao.cn/47/community/d2ViXzEwMDFfODEyNDI2MV84MTI0MjYxXzE2NTkyNzE3NTUwNThfY2Q2YzBjMGQ.png" width="80px" height="80px">
     </div>
 	  <div style="
       max-width: 760px;
