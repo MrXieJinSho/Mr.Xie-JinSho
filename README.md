@@ -9,7 +9,7 @@
       text-align: center;
       padding: 40px;
       ">
-      <img alt="logo" src="http://www.juren2007.cn/c/img/logo.png" width="80px" height="80px">
+      <img alt="logo" src="https://cdn-community.codemao.cn/47/community/d2ViXzEwMDFfODEyNDI2MV84MTI0MjYxXzE2Mjc0ODAwNzMwNTRfMWM2NmIxZTM.png" width="80px" height="80px">
     </div>
 	  <div style="
       max-width: 760px;
@@ -17,9 +17,12 @@
       padding: 15px;
       line-height: 1.7;
     ">
-      <p>2581628000@qq.com</p>
-      <p>虚位以待</p>
-      <p>虚位以待</p>
+      <a href="https://user.qzone.qq.com/2581628000/infocenter">QQ<p></p>
+    </a></div><a href="https://user.qzone.qq.com/2581628000/infocenter">
+      <a href="https://mrxiejinsho.github.io/Mr.Xie-JinSho/">我的网站<p></p>
+    </a></div><a href="https://mrxiejinsho.github.io/Mr.Xie-JinSho/">
+      <a href="https://mrxiejinsho.github.io/Mr.Xie-JinSho/">我的网站<p></p>
+    </a></div><a href="https://mrxiejinsho.github.io/Mr.Xie-JinSho/">
     </div>
 	  <div style="
       background-color: #f1f1f1;
