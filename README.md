@@ -17,7 +17,7 @@
       padding: 15px;
       line-height: 1.7;
     ">
-      <a href="[https://user.qzone.qq.com/2581628000/infocenter](https://user.qzone.qq.com/2581628000/main)">QQ（私聊）<p></p>
+      <a href="https://user.qzone.qq.com/2581628000/main">QQ（私聊）<p></p>
     </a>
       <a href="https://tieba.baidu.com/home/main?id=tb.1.34b3eb10.4qqUALCfS-g-dlW-sio5qQ?t=1603031641&fr=index">百度贴吧（意见反馈）<p></p>
     </a>
