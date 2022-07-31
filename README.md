@@ -17,11 +17,11 @@
       padding: 15px;
       line-height: 1.7;
     ">
-      <a href="https://user.qzone.qq.com/2581628000/infocenter">QQ<p></p>
-    </a></div><a href="https://user.qzone.qq.com/2581628000/infocenter">
-      <a href="https://mrxiejinsho.github.io/Mr.Xie-JinSho/">我的网站<p></p>
+      <a href="https://user.qzone.qq.com/2581628000/infocenter">QQ（私聊）<p></p>
+    </a></div><a href="https://tieba.baidu.com/home/main?id=tb.1.34b3eb10.4qqUALCfS-g-dlW-sio5qQ?t=1603031641&fr=index">
+      <a href="https://tieba.baidu.com/home/main?id=tb.1.34b3eb10.4qqUALCfS-g-dlW-sio5qQ?t=1603031641&fr=index">百度贴吧（意见反馈）<p></p>
     </a></div><a href="https://mrxiejinsho.github.io/Mr.Xie-JinSho/">
-      <a href="https://mrxiejinsho.github.io/Mr.Xie-JinSho/">我的网站<p></p>
+      <a href="https://mrxiejinsho.github.io/Mr.Xie-JinSho/">百度网盘（下载程序）<p></p>
     </a></div><a href="https://mrxiejinsho.github.io/Mr.Xie-JinSho/">
     </div>
 	  <div style="
