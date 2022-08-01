@@ -26,7 +26,7 @@
       padding: 40px;
       font-size: 12px;
       ">
-      <a href="https://mrxiejinsho.github.io/Mr.Xie-JinSho/">我的网站<p></p>
+      <a href="https://mrxiejinsho.github.io/Mr.Xie-JinSho/">个人主页<p></p>
     </a>
       <a href="https://mrxiejinsho.github.io/Mr.Xie-JinSho/Ways">联系方式<p></p>
     </a></div>
